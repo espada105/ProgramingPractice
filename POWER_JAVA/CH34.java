@@ -1,5 +1,5 @@
 package POWER_JAVA;
 
-public class CH24 {
+public class CH34 {
     
 }
