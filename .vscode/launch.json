@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CH44",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.CH44",
+      "projectName": "Major_Study_f248656b"
+    },
+    {
+      "type": "java",
+      "name": "CH43",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.CH43",
+      "projectName": "Major_Study_f248656b"
+    },
+    {
+      "type": "java",
+      "name": "CH45",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.CH45",
+      "projectName": "Major_Study_f248656b"
+    },
+    {
+      "type": "java",
       "name": "Launch Java Program",
       "request": "launch",
       "mainClass": ""
