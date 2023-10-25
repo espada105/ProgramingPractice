@@ -9,9 +9,23 @@ class midterm12 {
     public String toString(){
         return "색"+color+"speed"+speed+"gear"+gear;
     }
+<<<<<<< Updated upstream
     void changeGear(int g) {gear=g;}
     void speedUp(){speed=speed+10;}
     void speedDown(){speed = speed-10;}
+=======
+    System.out.println();
+
+
+
+
+
+
+
+
+
+
+>>>>>>> Stashed changes
 
 
 

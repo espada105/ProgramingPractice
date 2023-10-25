@@ -3,6 +3,7 @@
   "configurations": [
     {
       "type": "java",
+<<<<<<< Updated upstream
       "name": "CH44",
       "request": "launch",
       "mainClass": "POWER_JAVA.CH44",
@@ -21,6 +22,19 @@
       "request": "launch",
       "mainClass": "POWER_JAVA.CH45",
       "projectName": "Major_Study_f248656b"
+=======
+      "name": "CH32",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.CH32",
+      "projectName": "Major_Study_713ba2eb"
+    },
+    {
+      "type": "java",
+      "name": "CH31",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.CH31",
+      "projectName": "Major_Study_713ba2eb"
+>>>>>>> Stashed changes
     },
     {
       "type": "java",
