@@ -48,9 +48,9 @@ public class CH42 {
     }
 
     public static void main(String []args){
-        CH42 p = new CH42("이름","010-1234-1234","02-121-121","seongin@naver.com");
+        CH42 p = new CH42("김찬호","010-1234-1234","02-121-121","seongin@naver.com");
         System.out.println(p);
-        p.setname("(이름변경)이름1");
+        p.setname("박종우");
         System.out.println(p);
     }
 }
