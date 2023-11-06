@@ -18,7 +18,7 @@ class midterm12 {
     }
     public class midterm1{
         public static void main(String[]args){
-
+                
             midterm12 myCar = new midterm12();
             myCar.changeGear(1);
             myCar.speedUp();
