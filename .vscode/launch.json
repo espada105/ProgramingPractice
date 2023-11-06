@@ -2,54 +2,6 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "java",
-<<<<<<< Updated upstream
-      "name": "CH44",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.CH44",
-      "projectName": "Major_Study_f248656b"
-    },
-    {
-      "type": "java",
-      "name": "CH43",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.CH43",
-      "projectName": "Major_Study_f248656b"
-    },
-    {
-      "type": "java",
-      "name": "CH45",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.CH45",
-      "projectName": "Major_Study_f248656b"
-=======
-      "name": "CH32",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.CH32",
-      "projectName": "Major_Study_713ba2eb"
-    },
-    {
-      "type": "java",
-      "name": "CH31",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.CH31",
-      "projectName": "Major_Study_713ba2eb"
->>>>>>> Stashed changes
-    },
-    {
-      "type": "java",
-      "name": "Launch Java Program",
-      "request": "launch",
-      "mainClass": ""
-    },
-    {
-      "type": "java",
-      "name": "CH21",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.CH21",
-      "projectName": "Major_Study_713ba2eb"
-    },
-    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
