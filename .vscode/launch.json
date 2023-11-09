@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "javapractice",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.javapractice",
+      "projectName": "Major_Study_f248656b"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
