@@ -36,8 +36,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/PC/Documents/GitHub/Major_Study/C_Programming",
-      "program": "c:/Users/PC/Documents/GitHub/Major_Study/C_Programming/build/Debug/outDebug",
+      "cwd": "c:/Users/PC/Documents/GitHub/Major_Study/C_Programming/2학기",
+      "program": "c:/Users/PC/Documents/GitHub/Major_Study/C_Programming/2학기/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
