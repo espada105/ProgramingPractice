@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.MineSweeper2.main",
+      "projectName": "Major_Study_713ba2eb"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.MineSweeper1.main",
+      "projectName": "Major_Study_713ba2eb"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.MineSweeper.main",
+      "projectName": "Major_Study_713ba2eb"
+    },
+    {
+      "type": "java",
       "name": "_202000019홍성인",
       "request": "launch",
       "mainClass": "POWER_JAVA._202000019홍성인",
