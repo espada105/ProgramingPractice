@@ -6,6 +6,13 @@
       "name": "main",
       "request": "launch",
       "mainClass": "POWER_JAVA.MineSweeper2.main",
+      "projectName": "Major_Study_f248656b"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.MineSweeper2.main",
       "projectName": "Major_Study_713ba2eb"
     },
     {
