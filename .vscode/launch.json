@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AnonymousClassTest",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.AnonymousClassTest",
+      "projectName": "Major_Study_f248656b"
+    },
+    {
+      "type": "java",
+      "name": "MyClass",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.MyClass",
+      "projectName": "Major_Study_f248656b"
+    },
+    {
+      "type": "java",
       "name": "main",
       "request": "launch",
       "mainClass": "POWER_JAVA.MineSweeper2.main",

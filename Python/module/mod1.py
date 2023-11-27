@@ -1,6 +1,6 @@
-def add(a,b):
-    return a+b
-
-
-def sub(a,b):
-    return a-b
+class math():
+    def __init__(x,y):
+        self.x = x
+        self.y = y
+    def add(x,y):
+        return x + y
