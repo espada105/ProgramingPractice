@@ -3,6 +3,7 @@
   "configurations": [
     {
       "type": "java",
+<<<<<<< HEAD
       "name": "SingleTest",
       "request": "launch",
       "mainClass": "POWER_JAVA.SingleTest",
@@ -14,6 +15,19 @@
       "request": "launch",
       "mainClass": "PizzaTest",
       "projectName": "Major_Study_713ba2eb"
+=======
+      "name": "_1130",
+      "request": "launch",
+      "mainClass": "POWER_JAVA._1130",
+      "projectName": "Major_Study_f248656b"
+    },
+    {
+      "type": "java",
+      "name": "CircleTest",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.CircleTest",
+      "projectName": "Major_Study_f248656b"
+>>>>>>> 7c8a6847c7e2cd2958dfda95e000c128f073d414
     },
     {
       "type": "java",
