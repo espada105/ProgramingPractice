@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_1130",
+      "request": "launch",
+      "mainClass": "POWER_JAVA._1130",
+      "projectName": "Major_Study_f248656b"
+    },
+    {
+      "type": "java",
+      "name": "CircleTest",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.CircleTest",
+      "projectName": "Major_Study_f248656b"
+    },
+    {
+      "type": "java",
       "name": "AnonymousClassTest",
       "request": "launch",
       "mainClass": "POWER_JAVA.AnonymousClassTest",
