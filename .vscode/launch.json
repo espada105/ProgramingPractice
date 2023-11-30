@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SingleTest",
+      "request": "launch",
+      "mainClass": "POWER_JAVA.SingleTest",
+      "projectName": "Major_Study_713ba2eb"
+    },
+    {
+      "type": "java",
+      "name": "PizzaTest",
+      "request": "launch",
+      "mainClass": "PizzaTest",
+      "projectName": "Major_Study_713ba2eb"
+    },
+    {
+      "type": "java",
       "name": "AnonymousClassTest",
       "request": "launch",
       "mainClass": "POWER_JAVA.AnonymousClassTest",
@@ -78,8 +92,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/PC/Documents/GitHub/Major_Study/C_Programming/2학기",
-      "program": "c:/Users/PC/Documents/GitHub/Major_Study/C_Programming/2학기/build/Debug/outDebug",
+      "cwd": "c:/Users/PC/Documents/GitHub/Major_Study/C_Programming",
+      "program": "c:/Users/PC/Documents/GitHub/Major_Study/C_Programming/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

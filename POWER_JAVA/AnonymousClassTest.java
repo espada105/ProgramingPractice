@@ -8,7 +8,7 @@ public interface Remotecontrol {
 
 public class AnonymousClassTest {
     public static void main(String args[]){
-        Remotecontrol ac = new Remotecontrol() {
+        Remotecontrol ac = new Remotecontrol() 
             public void turnon() {
                 System.out.println("Tv turnon()");
             }
