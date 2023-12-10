@@ -194,4 +194,6 @@
 #         total+=sellpizza
 #         return total
 
-print("왜자꾸 빨간줄 떠 암것도 안했는데")
+# print("왜자꾸 빨간줄 떠 암것도 안했는데")
+
+
