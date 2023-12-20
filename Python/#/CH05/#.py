@@ -48,28 +48,28 @@
 #     if 
 
 
-class Me:
-    def __init__(self, a, b):
-        self.a = a
-        self.b = b
+# class Me:
+#     def __init__(self, a, b):
+#         self.a = a
+#         self.b = b
     
-    def add1(self):
-        return self.a + self.b
+#     def add1(self):
+#         return self.a + self.b
     
-    def add2(self, q, w, e):
-        self.q = q
-        self.w = w
-        self.e = e
-        return self.q + self.w + self.e
+#     def add2(self, q, w, e):
+#         self.q = q
+#         self.w = w
+#         self.e = e
+#         return self.q + self.w + self.e
 
-# 객체 생성
-a = Me(1, 2)
+# # 객체 생성
+# a = Me(1, 2)
 
-# add1 메서드 호출
-result = a.add1()
+# # add1 메서드 호출
+# result = a.add1()
 
-# add2 메서드 호출
-result2 = a.add2(1, 2, 3)
+# # add2 메서드 호출
+# result2 = a.add2(1, 2, 3)
 
-print(result)
-print(result2)
+# print(result)
+# print(result2)

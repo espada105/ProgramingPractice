@@ -2,112 +2,14 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "java",
-<<<<<<< HEAD
-      "name": "SingleTest",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.SingleTest",
-      "projectName": "Major_Study_713ba2eb"
-    },
-    {
-      "type": "java",
-      "name": "PizzaTest",
-      "request": "launch",
-      "mainClass": "PizzaTest",
-      "projectName": "Major_Study_713ba2eb"
-=======
-      "name": "_1130",
-      "request": "launch",
-      "mainClass": "POWER_JAVA._1130",
-      "projectName": "Major_Study_f248656b"
-    },
-    {
-      "type": "java",
-      "name": "CircleTest",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.CircleTest",
-      "projectName": "Major_Study_f248656b"
->>>>>>> 7c8a6847c7e2cd2958dfda95e000c128f073d414
-    },
-    {
-      "type": "java",
-      "name": "AnonymousClassTest",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.AnonymousClassTest",
-      "projectName": "Major_Study_f248656b"
-    },
-    {
-      "type": "java",
-      "name": "MyClass",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.MyClass",
-      "projectName": "Major_Study_f248656b"
-    },
-    {
-      "type": "java",
-      "name": "main",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.MineSweeper2.main",
-      "projectName": "Major_Study_f248656b"
-    },
-    {
-      "type": "java",
-      "name": "main",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.MineSweeper2.main",
-      "projectName": "Major_Study_713ba2eb"
-    },
-    {
-      "type": "java",
-      "name": "main",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.MineSweeper1.main",
-      "projectName": "Major_Study_713ba2eb"
-    },
-    {
-      "type": "java",
-      "name": "main",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.MineSweeper.main",
-      "projectName": "Major_Study_713ba2eb"
-    },
-    {
-      "type": "java",
-      "name": "_202000019홍성인",
-      "request": "launch",
-      "mainClass": "POWER_JAVA._202000019홍성인",
-      "projectName": "Major_Study_713ba2eb"
-    },
-    {
-      "type": "java",
-      "name": "Elevator",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.Elevator",
-      "projectName": "Major_Study_713ba2eb"
-    },
-    {
-      "type": "java",
-      "name": "ElevatorSimulator",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.ElevatorSimulator",
-      "projectName": "Major_Study_713ba2eb"
-    },
-    {
-      "type": "java",
-      "name": "javapractice",
-      "request": "launch",
-      "mainClass": "POWER_JAVA.javapractice",
-      "projectName": "Major_Study_f248656b"
-    },
-    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/PC/Documents/GitHub/Major_Study/C_Programming",
-      "program": "c:/Users/PC/Documents/GitHub/Major_Study/C_Programming/build/Debug/outDebug",
+      "cwd": "c:/Users/PC/Documents/GitHub/Major_Study/C_Programming/2023_lastterm",
+      "program": "c:/Users/PC/Documents/GitHub/Major_Study/C_Programming/2023_lastterm/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
