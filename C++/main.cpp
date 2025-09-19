@@ -1,22 +1,21 @@
 #include <iostream>
-#include <cstring>
+
+using namespace std;
+
+class Point {
+    int x, y;
+public:
+    Point();
+    Point(int a, int b);
+    void show() {        cout << "x: " << x << " y: " << y << endl;    }
+};
+
+Point::Point() : Point(0,0){ }
+Point::Point(int a, int b) : x(a), y(b) {}
 
 int main() {
-    char password[11];
-
-    std::cout << "input password" << std::endl;
-
-    while(true) {
-        std::cout << "password: ";
-        std::cin >> password;
-
-        if(std::strcmp(password, "C++") == 0) {
-            std::cout << "exit" << std::endl;
-            break;
-        } else {
-            std::cout << "its wrong" << std::endl;
-        }
-    }
-
-    return 0;
+    Point origin;
+    Point target(10, 20);
+    origin.show();
+    target.show();
 }
